@@ -1,0 +1,1 @@
+print("NP code: " + str(123))
